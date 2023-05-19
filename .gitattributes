@@ -1,1 +1,6 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+Misc filter=lfs diff=lfs merge=lfs -text
+NGIDS[[:space:]]Client filter=lfs diff=lfs merge=lfs -text
+NGIDS[[:space:]]Core filter=lfs diff=lfs merge=lfs -text
 * filter=lfs diff=lfs merge=lfs -text
